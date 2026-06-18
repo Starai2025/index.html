@@ -75,7 +75,7 @@
   .eyebrow::before{content:''; width:18px; height:1px; background:var(--brass-deep); display:inline-block;}
 
   section{padding:96px 0;}
-  #services, #process, #faq{scroll-margin-top:88px;}
+  #lead-capture, #services, #process, #faq{scroll-margin-top:88px;}
   @media (max-width:760px){ section{padding:64px 0;} }
 
   .reveal{opacity:0; transform:translateY(18px); transition:opacity 0.7s ease, transform 0.7s ease;}
@@ -278,6 +278,32 @@
   .price-card ul li{font-size:14.5px; color:var(--charcoal); padding-left:22px; position:relative;}
   .price-card ul li::before{content:'—'; position:absolute; left:0; color:var(--brass-deep);}
   .price-card .btn{width:100%; justify-content:center;}
+
+  /* ============ LEAD CAPTURE ============ */
+  .lead-capture{
+    background:var(--paper); border-top:1px solid var(--border); border-bottom:1px solid var(--border);
+  }
+  .lead-grid{
+    display:grid; grid-template-columns:0.95fr 1.05fr; gap:46px; align-items:center;
+  }
+  @media (max-width:900px){ .lead-grid{grid-template-columns:1fr; gap:32px;} }
+  .lead-copy h2{font-size:clamp(28px,3.4vw,40px);}
+  .lead-copy .lead{color:var(--slate); font-size:16px; max-width:560px; margin-bottom:24px;}
+  .lead-actions{display:flex; flex-wrap:wrap; gap:14px; align-items:center;}
+  .lead-note{
+    font-family:var(--mono); font-size:12px; color:var(--slate); letter-spacing:0.02em;
+  }
+  .lead-panel{
+    background:var(--bone); border:1px solid var(--border); border-radius:var(--radius);
+    padding:30px; box-shadow:0 20px 40px -28px rgba(14,29,51,0.35);
+  }
+  .lead-panel h3{font-family:var(--body); font-weight:700; font-size:18px; margin-bottom:16px;}
+  .lead-panel .ring-list{gap:14px;}
+  .lead-panel .ring-list li{font-size:14.5px; font-weight:600;}
+  .lead-panel .micro{
+    margin-top:20px; padding-top:16px; border-top:1px solid var(--border);
+    color:var(--slate); font-size:13.5px;
+  }
 
   /* ============ WHO IT'S FOR ============ */
   .who-grid{display:grid; grid-template-columns:0.9fr 1.1fr; gap:54px; align-items:center;}
@@ -495,6 +521,31 @@
           <h3>Built For Real Jobs</h3>
           <p>Align the resume with job postings, keywords, and measurable value.</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FREE LEAD CAPTURE ============ -->
+  <section id="lead-capture" class="lead-capture reveal">
+    <div class="wrap lead-grid">
+      <div class="lead-copy">
+        <span class="eyebrow">Free fit review</span>
+        <h2>Start With a Private Resume Fit Check</h2>
+        <p class="lead">Not sure which package you need yet? Submit the private intake first. Culturally Ai reviews your background, target roles, and career goals, then sends the best-fit recommendation and next steps by email.</p>
+        <div class="lead-actions">
+          <a class="btn btn-brass js-intake" href="#">Get My Free Fit Check</a>
+          <span class="lead-note">No payment collected inside the intake.</span>
+        </div>
+      </div>
+      <div class="lead-panel">
+        <h3>What happens after you submit?</h3>
+        <ul class="ring-list">
+          <li>You receive an automatic confirmation email.</li>
+          <li>Your answers are reviewed for package fit and service readiness.</li>
+          <li>If it is a fit, payment details and the next step are sent to you.</li>
+          <li>Strategy calls and writing begin only after payment is complete.</li>
+        </ul>
+        <p class="micro">Best for experienced job seekers with 5+ years of work history, career changers, business owners moving into corporate work, and professionals targeting higher-paying roles.</p>
       </div>
     </div>
   </section>
@@ -822,6 +873,11 @@
         <div class="faq-item">
           <button class="faq-q"><span>What happens after I complete the intake?</span><span class="plus">+</span></button>
           <div class="faq-a"><p>Culturally Ai reviews your answers and confirms the best-fit package, then sends payment details. Once payment is received, your strategy call is scheduled and we begin building your resume around your target roles.</p></div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-q"><span>Can I start without paying first?</span><span class="plus">+</span></button>
+          <div class="faq-a"><p>Yes. You can submit the private intake first for a free fit review and package recommendation. Payment is only requested after Culturally Ai reviews your information and confirms the right service path.</p></div>
         </div>
 
       </div>

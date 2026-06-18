@@ -1,14 +1,18 @@
 # Client Email Templates
 
-## Intake Received
+## Intake Received / Free Fit Check
 
-Subject: Culturally Ai Intake Received
+Subject: Your Culturally Ai Resume Fit Check Was Received
 
 Hi [Client Name],
 
-Thank you for completing the Culturally Ai Career Intelligence Intake. I will review your responses, target roles, and any materials you provided.
+Thank you for completing the Culturally Ai Career Intelligence Intake.
+
+Your information has been received for a private resume fit review. I will review your experience, career goals, target roles, and any materials you provided.
 
 If the service is a fit, I will send the correct payment link and next steps. For packages that include a strategy call, the call is scheduled after payment.
+
+Payment is not collected inside the intake. Strategy calls and writing begin only after payment is complete.
 
 Best,
 

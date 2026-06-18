@@ -4,6 +4,9 @@
 
 - [ ] Confirm all website CTAs point to the live intake form.
 - [ ] Confirm the intake form collects file uploads.
+- [ ] Add the Jotform autoresponder email for intake confirmations.
+- [ ] Add the Jotform admin notification to `starr@culturallyai.com`.
+- [ ] Connect Jotform submissions to a Google Sheets lead tracker.
 - [ ] Create payment link for $500 Resume Refresh.
 - [ ] Create payment link for $750 Executive Resume Build.
 - [ ] Create payment link for $150 Custom LinkedIn Profile.
@@ -16,15 +19,17 @@
 ## Workflow
 
 1. Customer visits website.
-2. Customer completes intake.
-3. Culturally Ai reviews intake for fit.
-4. Culturally Ai sends payment link.
-5. Customer pays.
-6. If applicable, customer receives booking link.
-7. Strategy call happens after payment.
-8. Draft is created.
-9. Client receives up to 3 resume revision rounds.
-10. Final files are delivered.
+2. Customer completes the private intake for a free fit review.
+3. Customer receives an automatic confirmation email.
+4. Culturally Ai receives an admin notification and lead-tracker entry.
+5. Culturally Ai reviews intake for fit.
+6. Culturally Ai sends the best-fit package and payment link.
+7. Customer pays.
+8. If applicable, customer receives booking link.
+9. Strategy call happens after payment.
+10. Draft is created.
+11. Client receives up to 3 resume revision rounds.
+12. Final files are delivered.
 
 ## Important Policy
 
