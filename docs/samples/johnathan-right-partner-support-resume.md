@@ -14,7 +14,7 @@ Partner & Customer Support | Ticket / Queue Triage | SLA-Equivalent Response Cad
 ### Northstar Systems Group | Remote | 05/2026 - Present
 **Partner Operations Specialist, AI SaaS**
 
-- Supported enterprise outbound and partner-facing workflows for high-value technical accounts, translating account signals from operational leaders, implementation stakeholders, and buying committees into clear CRM actions, escalation notes, and next-step recommendations.
+- Supported [redacted] outbound and partner-facing workflows for high-value technical accounts, translating account [redacted] from operational leaders, implementation stakeholders, and buying committees into clear [redacted] actions, escalation notes, and next-step recommendations.
 - Built a production-ready CRM workflow plan for outbound operations, including webhook intake, automation routing logic, custom properties, dedupe keys, contact/company upsert rules, and association checks.
 - Created repeatable documentation for CRM sync setup, partner/account targeting, persona segmentation, campaign naming, and live-test verification, helping reduce repeated internal questions and improve self-service readiness.
 - Identified recurring data, access, and entitlement risks across prospect imports, including missing emails, inconsistent company domains, duplicate record risk, payload variability, and permission dependencies; documented mitigations before scale.
