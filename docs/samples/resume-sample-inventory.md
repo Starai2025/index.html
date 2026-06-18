@@ -9,5 +9,7 @@ Current resume samples pulled from the workspace:
    - Phone changed to 404-419-7440.
    - LinkedIn changed to www.linkedin.com/in/starr-butts-664b98154.
    - Email changed to johnathan.right@example.com.
+   - Company names changed to anonymized professional placeholders.
+   - Job titles changed to polished generic titles aligned with the resume positioning.
 
 No other complete resume source files were found in the current workspace at the time this inventory was created.
