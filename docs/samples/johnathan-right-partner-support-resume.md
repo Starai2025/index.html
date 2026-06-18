@@ -1,5 +1,5 @@
 # JOHNATHAN RIGHT
-123 Peachtree Street NE, Atlanta, GA 30303 | 404-419-7440 | johnathan.right@example.com | www.linkedin.com/in/starr-butts-664b98154
+123 Peachtree Street NE, Atlanta, GA 30303 | 404-419-7440 | johnathan.right@example.com | www.linkedin.com/in/johnathan-right
 
 ## PARTNER SUPPORT SPECIALIST | AI SAAS PARTNER OPERATIONS | B2B CUSTOMER OPERATIONS
 
