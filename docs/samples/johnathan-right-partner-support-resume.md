@@ -3,7 +3,7 @@
 
 ## PARTNER SUPPORT SPECIALIST | AI SAAS PARTNER OPERATIONS | B2B CUSTOMER OPERATIONS
 
-B2B operations and AI SaaS sales professional with 7+ years of experience managing high-volume customer and partner-facing workflows across technology, education, healthcare, real estate, and program operations. Skilled in queue triage, CRM hygiene, escalation routing, written documentation, partner/account research, root-cause analysis, and process improvement. Known for turning messy account signals, support requests, and CRM data into clear workflows, reusable documentation, and fast next steps for internal teams and external stakeholders.
+B2B [redacted] professional with 7+ years of experience managing [redacted] customer and partner-facing workflows across technology, education, healthcare, real estate, and program operations. Skilled in queue triage, CRM hygiene, [redacted] routing, written documentation, partner/account research, root-cause analysis, and [redacted]. Known for turning messy account signals, support requests, and CRM data into clear workflows, reusable documentation, and fast next steps for internal teams and external stakeholders.
 
 ## CORE SKILLS
 
@@ -22,7 +22,7 @@ Partner & Customer Support | Ticket / Queue Triage | SLA-Equivalent Response Cad
 ### Meridian Education Partners | Remote | 08/2024 - Present
 **Business Development Specialist, Education Solutions**
 
-- Managed 80+ daily outbound and follow-up workflows across calls, email, LinkedIn, SMS, and CRM tasks while maintaining tight response cadences and clean account handoffs with senior sales partners.
+- Managed [redacted] follow-up workflows across calls, email, LinkedIn, SMS, and CRM tasks while maintaining tight response cadences and clean account handoffs with senior sales partners.
 - Booked 10-13 qualified meetings per month with executive and district-level stakeholders by diagnosing needs, documenting account context, and routing qualified opportunities to the right internal owners.
 - Built a $250K+ outbound pipeline in 9 months by identifying recurring buyer pain points, improving message quality, and maintaining consistent CRM updates across active prospects.
 - Applied AI-driven lead scoring to improve conversion rates to 20%, shorten the sales cycle to 12 days, and prioritize high-fit opportunities for cross-functional follow-up.
